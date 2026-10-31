@@ -57,7 +57,7 @@ export const profile = {
   stats: [
     { value: '1.5+', label: 'Years in frontend' },
     { value: '7', label: 'Projects built' },
-    { value: '3+', label: 'Years professional experience' },
+    { value: '3+', label: 'Years experience' },
   ],
   socials: [
     { label: 'GitHub', href: 'https://github.com/yevugahmark-alt', icon: 'github' },

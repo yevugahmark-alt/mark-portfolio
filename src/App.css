@@ -1243,6 +1243,8 @@
 .stats > div {
   display: flex;
   flex-direction: column-reverse;
+  /* In column-reverse, flex-end is the top: keeps values aligned when a label wraps. */
+  justify-content: flex-end;
   gap: 6px;
 }
 
