@@ -42,7 +42,7 @@ export const profile = {
   heroWords: ['Build', 'Design', 'Refine', 'Ship'],
   heroCallouts: ['React & TypeScript', 'Responsive interfaces'],
   heroCards: [
-    { title: 'Currently', text: 'Frontend Developer at BCON Soft Technologies, leading the BST HR Management System.' },
+    { title: 'Currently', text: 'Frontend Developer at Bconsoft Technologies, leading the BST HR Management System.' },
     { title: 'Focus', text: 'Reusable UI components, microfrontends, and clean REST API integration.' },
   ],
   intro:
@@ -50,7 +50,7 @@ export const profile = {
   email: 'yevugahmark@gmail.com',
   resume: '/Mark-Yevugah-CV.pdf',
   about: [
-    "I'm a **frontend developer** based in Accra. At BCON Soft Technologies I lead the frontend of an HR management system covering payroll, onboarding and employee management, and I contribute to a multi-tenant church management SaaS platform used by Ghanaian churches.",
+    "I'm a **frontend developer** based in Accra. At Bconsoft Technologies I lead the frontend of an HR management system covering payroll, onboarding and employee management, and I contribute to a multi-tenant church management SaaS platform used by Ghanaian churches.",
     'My path into software started in **accounting**. I hold a BSc in Accounting from the University of Professional Studies, Accra, and worked in financial reporting, reconciliation and tax compliance before moving into development. That background shapes how I build: careful with data, focused on the people using the product.',
     'A stint in customer service on the DHL project at Concentrix taught me to listen first and solve problems quickly, which I bring to every feature I ship.',
   ],
@@ -129,7 +129,7 @@ export const projects: Project[] = [
     year: '2025',
     role: 'Frontend Lead',
     description: [
-      'I lead the frontend development of the BST HR Management System at BCON Soft Technologies, building the interfaces HR teams use day to day.',
+      'I lead the frontend development of the BST HR Management System at BconSoft Technologies, building the interfaces HR teams use day to day.',
     ],
     highlights: [
       'Payroll module',
@@ -220,7 +220,7 @@ export const experience: Job[] = [
   {
     period: 'Apr 2025 to Present',
     title: 'Frontend Developer',
-    company: 'BCON Soft Technologies, Abokobi',
+    company: 'Bconsoft Technologies, Abokobi',
     summary:
       'Lead frontend development of the BST HR Management System and contribute to a multi-tenant church management SaaS platform. Build reusable UI components with React, TypeScript and Tailwind CSS and integrate them with backend REST APIs.',
   },
